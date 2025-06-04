@@ -1,0 +1,39 @@
+.custom-date{
+  /* width: 100%; */
+  width: 160px;
+}
+form .MuiStack-root{
+  margin-bottom: 18px !important;
+}
+.custem-form{
+  margin-top: 50px;
+}
+form .MuiInputBase-input-MuiOutlinedInput-input{
+  width: 400px;
+}
+.custom-year .css-4jnixx-MuiStack-root {
+overflow: hidden;
+padding-top: 0px;
+}
+.custom-year .MuiTextField-root{
+  min-width: 160px !important;
+}
+.custom-year .MuiStack-root{
+  padding-top: 0 !important;
+  overflow: inherit !important;
+}
+.table_edit .MuiPaper-root{
+  margin-top: 40px;
+}
+.MuiTableCell-root{
+  text-align: center !important;
+}
+.custem-search {
+  display: flex;
+  gap: 20px;
+  flex-direction:row !important;
+  margin-top: 30px;
+  height: 50px !important;
+}
+
+
